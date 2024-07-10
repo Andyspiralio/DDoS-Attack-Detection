@@ -1,6 +1,6 @@
 
 
-# DDoS Attack Prediction 
+# DDoS Attack Detection
 
 This project implements a Long Short-Term Memory (LSTM) based model to analyze network traffic patterns and forecast Distributed Denial of Service (DDoS) attacks, which pose a serious threat to network security.
 
