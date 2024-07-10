@@ -12,12 +12,6 @@ This project implements a Long Short-Term Memory (LSTM) based model to analyze n
 
 3. **Real-time Testing**: Demonstrated model performance in a real-time simulated botnet attack against a web application in a virtual machine environment.
 
-## Technology Stack
-
-- Machine Learning Framework: PyTorch
-- API Development: PHP
-- Testing Environment: Virtual Machine for botnet attack simulation
-
 ### Technology Stack
 
 - TensorFlow, Scikit-Learn, Pandas, Numpy
