@@ -1,4 +1,4 @@
-Certainly. Here's a draft README for the DDoS attack prediction project you described:
+
 
 # DDoS Attack Prediction 
 
