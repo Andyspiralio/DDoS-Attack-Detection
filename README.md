@@ -16,11 +16,3 @@ This project implements a Long Short-Term Memory (LSTM) based model to analyze n
 
 - TensorFlow, Scikit-Learn, Pandas, Numpy
 - VMWare Virtual Machine (For testing)
-
-(Specify the license under which your project is released)
-
-## Contact
-
-(Provide contact information or links to where users can reach out with questions or feedback)
-
-Would you like me to modify or expand any part of this README?
